@@ -6,6 +6,6 @@
 
 ### \*not mobile friendly
 
-### What I learned
+## What I learned
 
 Learing to implement **MVC structure** to learn backend file structure, using multiple third party API library,and using parcel to bundle
